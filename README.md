@@ -10,6 +10,6 @@ Part 1: Adding and listing items
 Part 2: You only print once (per item)
 - Modify the program so that after entering the items, each item is printed at most once. Two items should be considered the same if their identifiers are the same (there can be variation in their names in different countries, for instance).
 
-  If the user enters the same item multiple times, the print uses the item that was added first.
+- If the user enters the same item multiple times, the print uses the item that was added first.
 
   - From MOOC.fi
